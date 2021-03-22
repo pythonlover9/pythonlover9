@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pythonlover9
 - 👀 I’m interested in Python, Machine Learning and Quantitative Finance
-- 🌱 I’m currently learning Machine Libraries in Python
+- 🌱 I’m currently learning Machine Learning libraries in Python
 - 💞️ I’m looking to collaborate on tutorials helping people in learning Python and Machine Learning
 - 📫 You can contact me on <a href ="https://twitter.com/PythonLover9">Twitter</a>
 
